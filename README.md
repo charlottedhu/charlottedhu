@@ -6,6 +6,8 @@ After spending 10 years in the tourism industry, first as a **web project manage
 🔍 **I’m currently looking for a mission: feel free to contact me!**
 
 🔗 Here's a [link](https://www.linkedin.com/in/charlotte-d-huart-2344994b/) to my LinkedIn profile for details on my background
+🇫🇷 [My CV in French](https://drive.google.com/file/d/1IJRbI-UL4Vo0AaGZAotKWZFiwKe8aacK/view?usp=sharing)
+🇬🇧 [My CV in English](https://drive.google.com/file/d/14Bb9vN3ht0sHL1hkU3RFNP9WPBDXPQcU/view?usp=sharing)
 
 🔧 **My technical skills toolbox:**
 - **Languages:** SQL, Python (Numpy, Pandas, Matplotlib, Plotly, Requests, Scikit_learn)
