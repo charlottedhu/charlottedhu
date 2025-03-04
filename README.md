@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**charlottedhu/charlottedhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 My name is Charlotte d'Huart and I'm a freelance Data Analyst. 
+After spending 10 years in the tourism industry, first as a **web project manager**, then as a **web analyst**, I decided to acquire advanced data skills to deep dive into data-related business analysis. I recently graduated from **"Le Wagon" Data Analytics Bootcamp** 🚂, an intensive 2-month data training, and I can't wait to use my new knowledge in "real-life" use cases.
 
-Here are some ideas to get you started:
+🔍 **I’m currently looking for a mission: feel free to contact me!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Here's a [link](https://www.linkedin.com/in/charlotte-d-huart-2344994b/) to my LinkedIn profile for details on my background
+
+🔧 **My technical skills toolbox:**
+- **Languages:** SQL, Python (Numpy, Pandas, Matplotlib, Plotly, Requests, Scikit_learn)
+- **Data wharehousing:** BigQuery
+- **Data viz:** Looker Studio, PowerBI, Tableau
+- **Versioning:** DBT, Git
+- **ELT:** FiveTran
+- **Analytics:** Google Analytics 4, DataMa
+- **Web tracking:** Google Tag Manager
+- **Web UX/UI:** AB Tasty, ContentSquare
+
+📫 How to reach me: charlotte.dhuart@gmail.com
+
+📝 Have a look at my personal data projects below ! 
