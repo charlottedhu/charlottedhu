@@ -21,4 +21,4 @@ After spending 10 years in the tourism industry, first as a **web project manage
 
 📫 How to reach me: charlotte.dhuart@gmail.com
 
-📝 Check out my personal data projects below ! #WorkInPRogress
+📝 Check out my personal data projects below ! #WorkInProgress
