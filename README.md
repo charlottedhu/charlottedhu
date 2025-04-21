@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💡 My name is Charlotte d'Huart 👩‍💻
+💡 My name is Charlotte d'Huart 👩‍💻  
 With 10 years of experience in **web data**, and after completing an **intensive two-month Data Analysis bootcamp** at Le Wagon in early 2024, I am now launching my freelance career as a Data Analyst.
 
 💪 **My strengths**:
